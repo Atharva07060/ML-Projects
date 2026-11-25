@@ -1,0 +1,8 @@
+               precision    recall  f1-score   support
+
+Not purchased       0.93      0.89      0.91        64
+    Purchased       0.82      0.89      0.85        36
+
+     accuracy                           0.89       100
+    macro avg       0.88      0.89      0.88       100
+ weighted avg       0.89      0.89      0.89       100

@@ -1,0 +1,15 @@
+{
+  "best_model": "Decision Tree",
+  "features": [
+    "Gender",
+    "Age",
+    "EstimatedSalary"
+  ],
+  "target": "Purchased",
+  "test_size": 0.25,
+  "random_state": 42,
+  "class_labels": {
+    "0": "Not purchased",
+    "1": "Purchased"
+  }
+}

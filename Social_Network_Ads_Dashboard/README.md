@@ -87,4 +87,3 @@ A stratified 75/25 train/test split is used. Models are compared using five-fold
 - The prediction probability is a model estimate, not a guarantee.
 - Interactive charts use Plotly from a public CDN and need an internet connection. Flask predictions run locally.
 - The app listens on `127.0.0.1` by default.
-

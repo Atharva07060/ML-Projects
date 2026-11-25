@@ -1,0 +1,1549 @@
+{
+  "rows": 400,
+  "columns": [
+    "Gender",
+    "Purchased",
+    "User ID",
+    "EstimatedSalary",
+    "Age"
+  ],
+  "missing_values": {
+    "Gender": 0,
+    "Purchased": 0,
+    "User ID": 0,
+    "EstimatedSalary": 0,
+    "Age": 0
+  },
+  "class_counts": {
+    "0": 257,
+    "1": 143
+  },
+  "numeric_summary": {
+    "Age": {
+      "count": 400.0,
+      "mean": 37.66,
+      "std": 10.48,
+      "min": 18.0,
+      "25%": 29.75,
+      "50%": 37.0,
+      "75%": 46.0,
+      "max": 60.0
+    },
+    "EstimatedSalary": {
+      "count": 400.0,
+      "mean": 69742.5,
+      "std": 34096.96,
+      "min": 15000.0,
+      "25%": 43000.0,
+      "50%": 70000.0,
+      "75%": 88000.0,
+      "max": 150000.0
+    }
+  },
+  "gender_counts": {
+    "Female": 204,
+    "Male": 196
+  },
+  "sample": [
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 19000.0,
+      "Age": 19.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 20000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 43000.0,
+      "Age": 26.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 57000.0,
+      "Age": 27.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 76000.0,
+      "Age": 19.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 58000.0,
+      "Age": 27.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 84000.0,
+      "Age": 27.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 150000.0,
+      "Age": 32.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 33000.0,
+      "Age": 25.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 65000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 80000.0,
+      "Age": 26.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 52000.0,
+      "Age": 26.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 86000.0,
+      "Age": 20.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 18000.0,
+      "Age": 32.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 82000.0,
+      "Age": 18.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 80000.0,
+      "Age": 29.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 25000.0,
+      "Age": 47.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 26000.0,
+      "Age": 45.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 28000.0,
+      "Age": 46.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 29000.0,
+      "Age": 48.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 22000.0,
+      "Age": 45.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 49000.0,
+      "Age": 47.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 41000.0,
+      "Age": 48.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 22000.0,
+      "Age": 45.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 23000.0,
+      "Age": 46.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 20000.0,
+      "Age": 47.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 28000.0,
+      "Age": 49.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 30000.0,
+      "Age": 47.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 43000.0,
+      "Age": 29.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 18000.0,
+      "Age": 31.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 74000.0,
+      "Age": 31.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 137000.0,
+      "Age": 27.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 16000.0,
+      "Age": 21.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 44000.0,
+      "Age": 28.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 90000.0,
+      "Age": 27.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 27000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 28000.0,
+      "Age": 33.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 49000.0,
+      "Age": 30.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 72000.0,
+      "Age": 26.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 31000.0,
+      "Age": 27.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 17000.0,
+      "Age": 27.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 51000.0,
+      "Age": 33.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 108000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 15000.0,
+      "Age": 30.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 84000.0,
+      "Age": 28.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 20000.0,
+      "Age": 23.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 79000.0,
+      "Age": 25.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 54000.0,
+      "Age": 27.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 135000.0,
+      "Age": 30.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 89000.0,
+      "Age": 31.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 32000.0,
+      "Age": 24.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 44000.0,
+      "Age": 18.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 83000.0,
+      "Age": 29.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 23000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 58000.0,
+      "Age": 27.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 55000.0,
+      "Age": 24.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 48000.0,
+      "Age": 23.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 79000.0,
+      "Age": 28.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 18000.0,
+      "Age": 22.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 117000.0,
+      "Age": 32.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 20000.0,
+      "Age": 27.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 87000.0,
+      "Age": 25.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 66000.0,
+      "Age": 23.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 120000.0,
+      "Age": 32.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 83000.0,
+      "Age": 59.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 58000.0,
+      "Age": 24.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 19000.0,
+      "Age": 24.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 82000.0,
+      "Age": 23.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 63000.0,
+      "Age": 22.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 68000.0,
+      "Age": 31.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 80000.0,
+      "Age": 25.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 27000.0,
+      "Age": 24.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 23000.0,
+      "Age": 20.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 113000.0,
+      "Age": 33.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 18000.0,
+      "Age": 32.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 112000.0,
+      "Age": 34.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 52000.0,
+      "Age": 18.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 27000.0,
+      "Age": 22.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 87000.0,
+      "Age": 28.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 17000.0,
+      "Age": 26.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 80000.0,
+      "Age": 30.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 42000.0,
+      "Age": 39.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 49000.0,
+      "Age": 20.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 88000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 62000.0,
+      "Age": 30.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 118000.0,
+      "Age": 31.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 55000.0,
+      "Age": 24.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 85000.0,
+      "Age": 28.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 81000.0,
+      "Age": 26.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 50000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 81000.0,
+      "Age": 22.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 116000.0,
+      "Age": 30.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 15000.0,
+      "Age": 26.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 28000.0,
+      "Age": 29.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 83000.0,
+      "Age": 29.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 44000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 25000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 123000.0,
+      "Age": 28.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 73000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 37000.0,
+      "Age": 28.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 88000.0,
+      "Age": 27.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 59000.0,
+      "Age": 28.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 86000.0,
+      "Age": 32.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 149000.0,
+      "Age": 33.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 21000.0,
+      "Age": 19.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 72000.0,
+      "Age": 21.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 35000.0,
+      "Age": 26.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 89000.0,
+      "Age": 27.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 86000.0,
+      "Age": 26.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 80000.0,
+      "Age": 38.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 71000.0,
+      "Age": 39.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 71000.0,
+      "Age": 37.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 61000.0,
+      "Age": 38.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 55000.0,
+      "Age": 37.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 80000.0,
+      "Age": 42.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 57000.0,
+      "Age": 40.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 75000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 52000.0,
+      "Age": 36.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 59000.0,
+      "Age": 40.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 59000.0,
+      "Age": 41.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 75000.0,
+      "Age": 36.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 72000.0,
+      "Age": 37.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 75000.0,
+      "Age": 40.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 53000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 51000.0,
+      "Age": 41.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 61000.0,
+      "Age": 39.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 65000.0,
+      "Age": 42.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 32000.0,
+      "Age": 26.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 17000.0,
+      "Age": 30.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 84000.0,
+      "Age": 26.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 58000.0,
+      "Age": 31.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 31000.0,
+      "Age": 33.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 87000.0,
+      "Age": 30.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 68000.0,
+      "Age": 21.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 55000.0,
+      "Age": 28.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 63000.0,
+      "Age": 23.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 82000.0,
+      "Age": 20.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 107000.0,
+      "Age": 30.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 59000.0,
+      "Age": 28.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 25000.0,
+      "Age": 19.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 85000.0,
+      "Age": 19.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 68000.0,
+      "Age": 18.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 59000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 89000.0,
+      "Age": 30.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 25000.0,
+      "Age": 34.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 89000.0,
+      "Age": 24.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 96000.0,
+      "Age": 27.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 30000.0,
+      "Age": 41.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 61000.0,
+      "Age": 29.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 74000.0,
+      "Age": 20.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 15000.0,
+      "Age": 26.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 45000.0,
+      "Age": 41.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 76000.0,
+      "Age": 31.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 50000.0,
+      "Age": 36.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 47000.0,
+      "Age": 40.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 15000.0,
+      "Age": 31.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 59000.0,
+      "Age": 46.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 75000.0,
+      "Age": 29.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 30000.0,
+      "Age": 26.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 135000.0,
+      "Age": 32.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 100000.0,
+      "Age": 32.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 90000.0,
+      "Age": 25.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 33000.0,
+      "Age": 37.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 38000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 69000.0,
+      "Age": 33.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 86000.0,
+      "Age": 18.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 55000.0,
+      "Age": 22.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 71000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 148000.0,
+      "Age": 29.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 47000.0,
+      "Age": 29.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 88000.0,
+      "Age": 21.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 115000.0,
+      "Age": 34.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 118000.0,
+      "Age": 26.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 43000.0,
+      "Age": 34.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 72000.0,
+      "Age": 34.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 28000.0,
+      "Age": 23.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 47000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 22000.0,
+      "Age": 25.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 23000.0,
+      "Age": 24.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 34000.0,
+      "Age": 31.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 16000.0,
+      "Age": 26.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 71000.0,
+      "Age": 31.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 117000.0,
+      "Age": 32.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 43000.0,
+      "Age": 33.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 60000.0,
+      "Age": 33.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 66000.0,
+      "Age": 31.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 82000.0,
+      "Age": 20.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 41000.0,
+      "Age": 33.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 72000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 32000.0,
+      "Age": 28.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 84000.0,
+      "Age": 24.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 26000.0,
+      "Age": 19.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 43000.0,
+      "Age": 29.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 70000.0,
+      "Age": 19.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 89000.0,
+      "Age": 28.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 43000.0,
+      "Age": 34.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 79000.0,
+      "Age": 30.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 36000.0,
+      "Age": 20.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 80000.0,
+      "Age": 26.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 22000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 39000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 74000.0,
+      "Age": 49.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 134000.0,
+      "Age": 39.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 71000.0,
+      "Age": 41.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 101000.0,
+      "Age": 58.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 47000.0,
+      "Age": 47.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 130000.0,
+      "Age": 55.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 114000.0,
+      "Age": 52.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 142000.0,
+      "Age": 40.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 22000.0,
+      "Age": 46.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 96000.0,
+      "Age": 48.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 150000.0,
+      "Age": 52.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 42000.0,
+      "Age": 59.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 58000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 43000.0,
+      "Age": 47.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 108000.0,
+      "Age": 60.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 65000.0,
+      "Age": 49.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 78000.0,
+      "Age": 40.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 96000.0,
+      "Age": 46.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 143000.0,
+      "Age": 59.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 80000.0,
+      "Age": 41.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 91000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 144000.0,
+      "Age": 37.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 102000.0,
+      "Age": 60.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 60000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 53000.0,
+      "Age": 37.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 126000.0,
+      "Age": 36.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 133000.0,
+      "Age": 56.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 72000.0,
+      "Age": 40.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 80000.0,
+      "Age": 42.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 147000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 42000.0,
+      "Age": 39.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 107000.0,
+      "Age": 40.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 86000.0,
+      "Age": 49.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 112000.0,
+      "Age": 38.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 79000.0,
+      "Age": 46.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 57000.0,
+      "Age": 40.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 80000.0,
+      "Age": 37.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 82000.0,
+      "Age": 46.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 143000.0,
+      "Age": 53.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 1,
+      "EstimatedSalary": 149000.0,
+      "Age": 42.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 59000.0,
+      "Age": 38.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 88000.0,
+      "Age": 50.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 104000.0,
+      "Age": 56.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 72000.0,
+      "Age": 41.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 146000.0,
+      "Age": 51.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 0,
+      "EstimatedSalary": 50000.0,
+      "Age": 35.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 122000.0,
+      "Age": 57.0
+    },
+    {
+      "Gender": "Male",
+      "Purchased": 0,
+      "EstimatedSalary": 52000.0,
+      "Age": 41.0
+    },
+    {
+      "Gender": "Female",
+      "Purchased": 1,
+      "EstimatedSalary": 97000.0,
+      "Age": 35.0
+    }
+  ]
+}
