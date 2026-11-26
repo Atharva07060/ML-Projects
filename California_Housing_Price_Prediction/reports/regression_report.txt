@@ -1,0 +1,4 @@
+Selected model: Histogram Gradient Boosting
+Test MAE: $32,251
+Test RMSE: $48,020
+Test R-squared: 0.826

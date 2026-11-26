@@ -1,0 +1,18 @@
+{
+  "best_model": "Histogram Gradient Boosting",
+  "features": [
+    "longitude",
+    "latitude",
+    "housing_median_age",
+    "total_rooms",
+    "total_bedrooms",
+    "population",
+    "households",
+    "median_income",
+    "ocean_proximity"
+  ],
+  "target": "median_house_value",
+  "test_size": 0.2,
+  "random_state": 42,
+  "selection_metric": "5-fold CV RMSE"
+}
